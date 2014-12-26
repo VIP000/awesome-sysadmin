@@ -538,3 +538,532 @@ Various resources, such as books, websites and articles, for improving your skil
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
+
+灵感来自真棒PHP的惊人真棒开源系统管理员资源为策划名单
+
+真棒系统管理员
+备份
+克隆
+云计算
+云存储
+代码审查
+协同软件
+配置管理数据库
+配置管理
+持续集成和持续部署
+分布式文件系统
+DNS
+主机控制面板
+IMAP/ POP3
+IT资产管理
+LDAP
+日志管理
+监控
+公制和指标收集
+网络配置管理
+通讯
+NoSQL的
+包装
+排队
+RDBMS
+安全
+服务发现
+SMTP
+软件容器
+SSH
+统计
+票务系统
+故障排除
+项目管理
+版本控制
+虚拟化
+VPN
+XMPP
+卷筒纸
+提醒服务
+维基
+资源
+博客
+书籍
+编者
+简讯
+资料库
+网站
+特约
+备份
+
+备份软件。
+
+阿曼达 - 客户端 - 服务器模式的备份工具。
+Bacula的 - 另一个客户端 - 服务器模式的备份工具。
+Backupninja - 轻量级的，可扩展的元备份系统。
+backuppc的 - 客户端 - 服务器模式的备份工具，文件池方案。
+打嗝 - 网络备份和恢复程序。
+口是心非 - 加密使用的rsync算法的带宽效率的备份。
+Lsyncd - 手表的本地目录树的更改，然后生成一个进程同步的变化。默认使用的rsync。
+Rsnapshot - 文件系统快照将实用程序。
+保管 - 使用rdiff进行备份集中拉式备份。
+TarSnap - 安全备份服务与开放源代码客户端。
+UrBackup - 另一个客户 - 服务器备份系统。
+DREBS - 支持策略AWS EBS备份脚本。
+克隆
+
+克隆软件。
+
+Clonezilla的 - 分区和磁盘映像/克隆计划。
+雾 - 另一台计算机克隆的解决方案。
+重做备份 - 轻松备份，恢复和还原。
+云计算
+
+AppScale - 开源云计算软件与谷歌应用程序引擎的兼容性。
+阿希佩尔 - 管理和监督使用libvirt的虚拟机。
+的CloudStack - 云计算的软件，用于创建，管理和部署的基础设施云服务。
+皮匠 - 鞋匠是一个Linux安装服务器，允许网络安装环境的快速设置。
+桉树 - 开源私有云软件与AWS的兼容性。
+Mesos - 开发并运行资源节约型分布式系统。
+OpenNebula - 为系统管理员和DEVOPS一个用户驱动的云管理平台。
+OpenStack的 - 构建私有云和公共云的开源软件。
+工头 - 福尔曼是一个完整的生命周期管理工具，为物理和虚拟服务器。 FOSS。
+云编排
+
+- 波什的IaaS平台的业务流程最初用于部署和管理云的PaaS铸造写，也有用的通用分布式系统。
+Cloudify - 开源TOSCA为基础的云编排软件平台用Python编写的YAML。
+朱朱 - 云orechestration工具，管理服务的魅力，YAML配置和部署脚本包。
+MCollective - Ruby框架，来管理服务器上的业务流程，通过木偶实验室开发。
+阴 - 部署虚拟机在不同的云服务供应商，并通过运行SSH通过任何或所有命令和脚本并行。
+Rundeck - 简单的业务流程的工具。
+盐 - 它是用Python编写的。
+云存储
+
+混帐附件助手 - 在你的每一个OSX和Linux计算机，Android设备，可移动驱动器，NAS设备和云服务同步文件夹。
+ownCloud - 提供通过网络，您的计算机或移动设备的普遍访问您的文件。
+Seafile - 另一个开源云存储解决方案。
+SparkleShare - 提供云存储和文件同步服务。默认情况下，它使用的Git作为存储后端。
+斯威夫特 - 高可用，分布式的，最终一致的对象/ BLOB存储。
+Syncthing - 数据的私有，加密和验证distrobution开源系统。
+代码审查
+
+基于Web的协作代码审查制度。
+
+格里特 - 基于Git版本控制，它有利于软件开发人员审查修改源代码，并批准或拒绝这些更改。
+审查委员会 - 可以免费UNER的MIT许可证的软件。
+协同软件
+
+协同软件或组件套件。
+
+城堡/ UX - 协作套件（消息和群件），它是从城堡系列节目的后裔。
+造成eGroupWare - 群件软件，用PHP编写的。
+部落群件 - 基于PHP的协作软件套件，包括电子邮件，日历，维基，实时跟踪和文件管理。
+Kolab - 另一个组件套件。
+崇光百货 - 协同软件的服务器，重点是简单性和可扩展性。
+Zimbra公司 - 协同软件套件，包括电子邮件服务器和Web客户端。
+配置管理数据库
+
+配置管理数据库（CMDB）软件。
+
+I-DOIT - 开源IT文档和CMDB。
+ITOP - 一个完整的开源，ITIL，基于Web的服务管理工具。
+拉尔夫 - 资产管理，DCIM和CMDB系统，为大型数据中心以及较小的局域网。
+Clusto - 帮助您保持您的库存，它在哪里，它是如何连接的轨道，并且提供了一个抽象的接口与基础设施元素进行交互。
+配置管理
+
+配置管理工具。
+
+Ansible - 它是用Python编写，并通过SSH管理节点。
+Cfengine的 - 轻量级代理系统。配置状态通过声明语言来指定。
+厨师 - 这是写在Ruby和Erlang和使用纯Ruby DSL。
+面料 - Python库和CLI工具简化使用SSH的应用程序部署和系统管理任务。
+托盘 - 通过Clojure的DSL基础设施的定义，配置和管理。
+木偶 - 它是用Ruby编写的，并使用木偶的声明性语言或Ruby的DSL。
+盐 - 它是用Python编写的。
+屠宰 - 它是用Perl编写。
+持续集成和持续部署
+
+持续集成/部署的软件。
+
+的Buildbot - 基于Python的工具包，用于持续集成。
+无人机 - 持续集成服务器构建于泊坞窗，用YAML文件来配置。
+GitLab CI - 基于关红宝石。他们还提供GitLab，管理git仓库。
+去 - 开源持续交付服务器。
+詹金斯 - 一个可扩展的开源持续集成服务器。
+弗拉德的部署 - 部署的自动化。
+分布式文件系统
+
+网络的分布式文件系统。
+
+Ceph的 - 分布式对象存储和文件系统。
+DRBD - Disributed复制块设备。
+LeoFS - 非结构化对象/数据存储和高可用性，分布，最终一致的存储系统。
+GlusterFS - 横向扩展网络附加存储文件系统。
+HDFS - 分布式，可扩展和可移植的文件系统用Java编写的Hadoop框架。
+光泽 - 一种并行分布式文件系统，一般用于大规模集群计算。
+MooseFS - 容错，网络分布式文件系统。
+MogileFS - 应用层，网络分布式文件系统。
+OpenAFS的 - 分布式网络文件系统，只读副本和多操作系统的支持。
+TahoeLAFS - 安全，分散，容错，对等网络的分布式数据存储和分布式文件系统。
+XtreemFS - XtreemFS是所有存储需求的容错分布式文件系统。
+DNS
+
+DNS服务器。
+
+结合 - 最广泛使用的域名服务器的软件。
+djbdns - 的DNS应用，包括tinydns的集合。
+指定 - 支持多个DNS服务器作为其后端DNS REST API。
+的dnsmasq - 一个轻量级的服务于小规模的网络提供DNS，DHCP和TFTP服务。
+结 - 高性能仅权威DNS服务器。
+NSD - 唯一权威，高效，简单的名称服务器。
+PowerDNS - 与各种数据存储后端和负载均衡功能的DNS服务器。
+未绑定 - 验证，递归和缓存DNS解析。
+Yadifa - 轻量级权威名称服务器与DNSSEC功能供电的.eu顶级域名。
+主机控制面板
+
+Web主机控制面板
+
+Ajenti - 控制面板Linux和BSD。
+Feathur - VPS配置和管理软件。
+ISPConfig - 主机控制面板的Linux版本。
+VestaCP - 主机面板上的Linux，但与Nginx的。
+的Virtualmin - 控制面板Linux的基于webmin的。
+ZPanel - 控制面板适用于Linux，BSD和Windows。
+IMAP/ POP3
+
+IMAP/ POP3邮件服务器。
+
+快递IMAP/ POP3 - 快速，可扩展，企业的IMAP和POP3服务器。
+赛勒斯IMAP/ POP3 - 打算在密封的服务器，其中普通用户不允许登录运行。
+达夫科特 - IMAP和书面主要是安全意识POP3服务器。
+Qpopper的 - 一个POP3的最古老和最流行的服务器实现的。
+IT资产管理
+
+IT资产管理软件。
+
+GLPI - 信息资源管理器与一个额外的管理界面。
+OCS库存NG - 使用户能够清查他们的IT资产。
+RackTables - 像文档硬件资产，网络地址空间，机架，网络配置数据中心和服务器机房资产管理。
+拉尔夫 - 资产管理，DCIM和CMDB系统，为大型数据中心以及较小的局域网。
+狙击IT - 资产及许可证管理软件。
+LDAP
+
+LDAP服务器。
+
+389目录服务器 - 由Red Hat开发。
+Apache目录服务器 - 用Java编写的Apache软件基金会的项目。
+融合目录 - 完善的服务和基于OpenLDAP的公司目录的管理。
+OpenDJ - 叉OpenDS的了。
+OpenDS的 - 用Java编写的另一个目录服务器。
+OpenLDAP的 - 开发的OpenLDAP项目。
+日志管理
+
+日志管理工具：收集，分析，可视化...
+
+Elasticsearch - 一种基于Lucene的文档存储主要用于日志索引，存储和分析。
+Fluentd - 日志收集和托运人。
+水槽 - 分布式日志收集和汇总系统。
+Graylog2 - 可插拔日志和事件分析服务器与警报选项。
+HEKA - 可被用于日志汇聚流处理系统。
+Kibana - 可视化的日志和时间标记的数据。
+Logstash - 管理事件和日志工具。
+八爪 - 日志管理解决方案（可视化/警报/报告）。
+监控
+
+监控软件。
+
+仙人掌 - 基于Web的网络监控和绘图工具。
+卡博特 - 监控和警报，类似PagerDuty。
+check_mk - 集扩展的Nagios。
+短跑 - 低开销的监测网络仪表板的GNU/ Linux机器。
+Icinga - Nagios的叉。
+LibreNMS - Observium叉。
+monit的 - 小的开源工具，用于管理和监控Unix系统。
+穆宁 - 网络资源监控工具。
+Naemon - 基于Nagios的4核心，性能改进和新功能的网络监控工具。
+Nagios的 - 计算机系统，网络和基础设施监控的软件应用程序。
+Observium - SNMP监测服务器和网络设备。在Linux上运行。
+OMD - 开放式监控分布。
+Opsview - 基于Nagios的4 Opsview核心非常适合小型IT环境和测试环境。
+黎曼 - 灵活和快速的事件处理器，让复杂事件/指标分析。
+狭义 - 开源监测框架。
+哨兵 - 应用程序监控，事件记录和汇总。
+进研 - 另一个监测框架。
+Thruk - Multibackend监控webinterface与Naemon，Nagios的，Icinga和进研支持。
+Xymon - 网络监控灵感大哥。
+ZABBIX - 企业级软件，用于监测网络和应用。
+Zenoss的 - 应用程序，服务器和网络管理基于Zope的平台。
+公制和指标收集
+
+公制采集和显示软件。
+
+Collectd - 系统统计信息收集守护进程。
+Collectl - 高精度系统的性能指标收集工具。
+潇洒 - 红宝石的宝石，可以快速统计仪表板的发展。全HTML5方法允许大屏幕显示数据中心或会议室。
+钻石 - 基于Python的统计信息收集守护进程。
+神经节 - 高性能，可扩展的基于RRD监控电网和/或服务器集群。兼容使用单一收集过程石墨。
+Grafana - 石墨及InfluxDB仪表板和图形编辑器。
+石墨 - 开源可扩展的图形服务器。
+InfluxDB - 开源分布式时间序列数据库，没有外部的依赖。
+KairosDB - OpenTSDB1.x的快速分布式可扩展的时间序列数据库，叉
+OpenTSDB - 存储与时间序列数据，而不会失去粒度服务器大量。
+RRDtool的 - 开源行业标准，高性能的数据记录和绘图系统的时间序列数据。
+Statsd - 应用统计听众。
+网络配置管理
+
+网络配置管理工具。
+
+GestióIP - 基于IPv4 / IPv6双IP地址管理工具的自动化网络。
+RANCID - 监控网络设备的configurarion和维护变化的历史。
+rConfig - 另一个网络设备配置管理工具。
+简讯
+
+通讯软件。
+
+DadaMail - 邮件列表管理器，用Perl编写的。
+phpList - 通讯经理用PHP编写的。
+NoSQL的
+
+NoSQL数据库。
+
+列家庭
+Apache的HBase的 - Hadoop的数据库，分布式，大数据存储。
+卡桑德拉 - 分布式设计来处理大量的跨多个服务器的数据的DBMS。
+Hypertable - C++基于BigTable的样DBMS，通信，勤俭运行无论是作为独立或分布式FS如Hadoop的。
+文档存储
+CouchDB的 - 易于使用，多主复制面向文档的数据库系统。
+ElasticSearch - 基于Java的数据库，很受日志聚合和电子邮件归档项目。
+MongoDB的 - 另一个面向文档的数据库系统。
+RavenDB - 基于文档的数据库与ACID/事务处理功能。
+RethinkDB - 开源分布式文档存储数据库，专注于JSON。
+图形
+FlockDB - Twitter的分布式，容错图形数据库。
+Neo4j的 - 开源图形数据库。
+键 - 值
+LevelDB - 谷歌的高性能键/值数据库。
+Redis的 - 网络，内存，键值数据存储可选的耐用性。
+Riak - 另一个容错键值的NoSQL数据库。
+NoSQL的对服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
+
+包装
+
+FPM - 多功能多格式封装的创造者。
+综合红宝石 - 全栈，交叉发行版包装软件（红宝石）。
+帕克曼 - 全栈，交叉发行版包装软件（蟒蛇）。
+蒂托 - 构建RPM包的git为基础的项目。
+排队
+
+BeanstalkD - 一个简单，快捷的工作队列。
+Gearman的 - 快速的多语言排队/作业处理平台。
+NSQ - 一种实时分布式通讯平台。
+RabbitMQ的 - 坚固耐用，功能齐全，交叉发行排队系统。
+ZeroMQ - 轻量级排队系统。
+RDBMS
+
+关系型数据库管理系统。
+
+火鸟 - 真正的通用的开源数据库。
+加莱拉 - 加莱拉集群为MySQL是一种具有高系统正常运行时间，无数据丢失，可扩展性和未来发展的一个易于使用的高可用性解决方案。
+MariaDB - 社区开发了MySQL的分支。
+MySQL的 - 最流行的RDBMS服务器。
+Percona的服务器 - 增强，嵌入式MySQL的更换。
+PostgreSQL的 - 对象关系型数据库管理系统（ORDBMS）。
+PostgreSQL的-XL - 可扩展的开源基于PostgreSQL数据库集群。
+SQLite的 - 库实现了一个自包含的，无服务器，零配置，事务性SQL DBS。
+安全
+
+安全工具。
+
+的DenyHosts - 阻止SSH基于字典的攻击和暴力攻击。
+的fail2ban - 扫描日志文件，并采取上显示恶意行为的IP行动。
+SpamAssassin的 - 采用多种检测技术的强大和受欢迎的垃圾邮件过滤器。
+服务发现
+
+领事 - 领事是服务发现，监控和配置的工具。
+Doozerd - 道崎是少量的极为重要的数据高可用性，完全一致的商店。
+动物园管理员 - 动物园管理员是维护配置信息，命名，提供分布式的同步，并提供团体服务集中服务。
+SMTP
+
+SMTP服务器。
+
+进出口 - 邮件传输代理（MTA）开发的剑桥大学。
+Haraka - 用JavaScript编写的高性能，pluginable SMTP服务器。
+MailCatcher - 红宝石的宝石，部署接受的所有邮件，并显示在网页界面简单SMTP MTA网关。可用于调试或发展。
+信箱 - 开源一次性电子邮件的SMTP服务器，也有用开发。
+OpenSMTPD - 从OpenBSD项目安全SMTP服务器实现。
+后缀 - 快速，易于管理和安全Sendmail的更换。
+Qmail的 - 安全Sendmail的替代品。
+Sendmail的 - 邮件传输代理（MTA）。
+软件容器
+
+操作系统级的虚拟化。
+
+汇出 - 产生开源安装程序或软件包的Web应用程序和开发堆栈以及虚拟设备。
+泊坞窗 - 为开发人员和系统管理员建设，船舶和运行分布式应用程序的开放平台。
+OpenVZ的 - 基于容器的虚拟化Linux操作系统。
+SSH
+
+SSH工具。
+
+autossh - 自动网络中断后重生SSH会话。
+集群SSH - 控制了许多的xterm窗口通过单一图形控制台。
+DSH - 舞者的shell/分布式外壳 - 包装从一个命令行中执行多个远程shell命令。
+MOSH - 移动外壳。
+并行的ssh - 提供OpenSSH和相关工具的并行版本。
+SSH电动工具 - 执行命令和文件上传到多台服务器同时不使用预共享密钥。
+统计
+
+分析软件。
+
+模拟 - 世界上最流行的日志文件分析仪。
+GoAccess - 开源实时Web日志分析和互动式阅读器运行在一个终端。
+Piwik - 免费和开源的web分析应用。
+Webalizer的 - 快速，免费的网络服务器日志文件分析程序。
+票务系统
+
+基于Web的售票系统。
+
+Bugzilla的 - 通用的错误追踪系统和测试工具最初开发和使用的Mozilla项目。
+Cerb - 建有一个商业开源许可证一组为基础的电子邮件管理项目。
+Flyspray - 用PHP编写的基于Web的bug跟踪系统。
+MantisBT - 另一种基于Web的bug跟踪系统。
+osTicket - 开源的支持票系统。
+OTRS - 一个自由和开放源码的故障单系统软件包，一个公司，组织或其他实体可以使用分配门票进入的查询和跟踪有关他们进一步沟通。
+请求跟踪 - 用Perl编写的票务追踪系统。
+TheBugGenie - 开源售票系统非常完善的用户权限粒度。
+故障排除
+
+故障排除工具。
+
+mitmproxy - 用于拦截，查看和修改网络通信的Python的工具。无价的故障排除某些问题。
+Sysdig - 捕获系统状态，并从运行Linux实例活动，然后保存，过滤和分析。
+Wireshark的 - 世界上最重要的网络协议分析仪。
+项目管理
+
+基于Web的项目管理和bug跟踪系统。
+
+ChiliProject - 叉管理平台的。
+GitBucket克隆GitHub上用Scala编写的;单罐安装。
+GitLab - GitHub上的克隆Ruby编写。
+视护目镜 - 写在围棋。
+OpenProject - 开源项目合作。
+Phabricator用PHP编写的。
+管理平台 - 写在Ruby on Rails的。
+这个Bug精灵 - 写在PHP。
+TRAC - 用Python编写的。
+版本控制
+
+软件版本控制和版本控制。
+
+化石 - 分布式版本控制内置的wiki和缺陷跟踪。
+Git的 - 分布式版本控制和源代码管理（SCM），重点是速度。
+GNU集市 - 分布式由Canonical赞助的版本控制系统。
+水银 - 另一个分布式版本控制。
+颠覆 - 客户端 - 服务器版本控制系统。
+虚拟化
+
+虚拟化软件。
+
+Ganeti - 基于KVM和Xen之上集群虚拟服务器管理软件工具。
+KVM - Linux内核的虚拟化基础架构。
+oVirt - 管理虚拟机，存储和虚拟网络。
+帕克 - 从单一源配置创建相同的机映像为多个平台的工具。
+无业游民 - 构建完整的开发环境工具。
+VirtualBox虚拟 - 虚拟化的产品从Oracle公司。
+Xen的 - 虚拟机监视器的32/64位Intel/ AMD（IA64）和PowerPC970架构。
+VPN
+
+VPN软件。
+
+OpenVPN的 - 使用自定义的安全协议，它采用SSL/ TLS密钥交换。
+Pritunl - OpenVPN的基础的解决方案。容易建立。
+SOFTETHER - 多协议VPN软件具有先进功能
+sshuttle - 穷人的VPN。
+strongSwan - 完整的IPsec实现Linux操作系统。
+TINC - 分布式P2P VPN。
+XMPP
+
+XMPP服务器。
+
+的ejabberd - 写在二郎山/ OTP XMPP即时消息服务器。
+节拍器IM - 韵律IM的叉。
+MongooseIM - 的ejabberd的叉。
+的Openfire - 实时协作（RTC）服务器。
+韵律IM - XMPP服务器写在Lua。
+Tigase - 在Java中XMPP服务器实现。
+提醒服务
+
+Webmail应用。
+
+Mailpile - 一个现代的，快速的网络邮件客户端，方便用户加密和隐私保护功能。
+Roundcube - 基于浏览器的IMAP客户端与应用程序类似的用户界面。
+卷筒纸
+
+Web服务器。
+
+阿帕奇 - 最流行的Web服务器。
+切诺基 - 轻型，高性能的Web服务器/反向代理。
+lighttpd的 - 速度关键型环境的Web服务器更优化。
+Nginx的 - 反向代理，负载平衡器，HTTP缓存和Web服务器。
+uWSGI - 该uWSGI项目旨在开发一个完整的堆栈建设托管服务。
+Web性能
+
+HAProxy的 - 基于软件的负载均衡，SSL卸载和性能优化，压缩，和一般的网络路由。
+清漆 - 基于HTTP的Web应用加速器重在优化缓存和压缩。
+维基
+
+维基软件。
+
+DokuWiki的 - 使用简单和高度通用维基不需要数据库。
+咕噜 - 一个简单的，Git的供电维基用甜美的API和当地的前端。
+ikiwiki - 维基编译器。
+对于MediaWiki - 用来为维基百科。
+MoinMoin的 - 一个先进的，易于使用和可扩展WikiEngine与用户的大社区。
+Ōlelo维基 - 一个维基存储在一个Git仓库页面。
+的TW - 在JavaScript中完全互动的维基。
+资源
+各种资源，如书籍，网站和文章，提高你的技能和知识。
+
+博客
+
+代码工艺 - Etsy的的OPS博客，大量的技术岗位。
+DevOpsGuys - DEVOPS顾问谁博客上操作。
+Rackspace公司开发 - 略微偏博客，有很多的DevOps话题。
+书籍
+
+系统管理员相关书籍。
+
+Linux命令行 - 一本关于威廉Shotts Linux命令行。
+凤凰项目：关于IT，DevOps的一本小说，并帮助您的业务运 - 如何DevOps的技术可以解决这个问题发生在IT组织的问题。
+系统和网络管理的实践 - 第一和第二版描述了系统和网络管理的独立于特定平台或技术的最佳实践。
+可见OPS手册：实施ITIL在4实用和可审核的步骤 - 是一款专为快速启动实施控制和过程改进方法。
+UNIX和Linux系统管理手册 - 途径系统管理从实践的角度。
+编者
+
+开放源代码编辑器。
+
+原子 - 从Github上一个容易被破解的文本编辑器。
+括号 - 开源代码编辑器网页设计师和前端开发人员。
+日食 - IDE Java编写的与一个可扩展的插件系统。
+Geany - GTK2的文本编辑器。
+GNU Emacs的 - 一个可扩展的，可定制的文本编辑器，等等。
+Haroopad - 降价编辑器，实时预览。
+ICEcoder - 代码编辑器迷死人，建有常见的Web语言。
+jotgit - 的Git支持实时协作代码编辑。
+光表 - 下一代代码编辑器。
+石灰 - 旨在提供一个开放源码的解决方案，以崇高的文本
+TextMate的 - 一个图形化的文本编辑器OS X.
+Vim的 - 内置，使高效编辑一个高度可配置的文本编辑器。
+简讯
+
+服务器的黑客 - 通讯程序员谁发现自己需要了解自己身边的服务器的方式。
+资料库
+
+软件库。
+
+Dotdeb - 库与LAMP更新包的Debian。
+雷米 - 库与LAMP更新包RHEL/ Centos的/ Fedora的。
+网站
+
+有用的系统管理员相关的网站。
+
+训练学校 - 全面的计划，这将帮助你学习是一个操作工程师。
+数字海洋教程 - 获取的某些应用程序，工具，甚至是系统管理主题的基础知识令人惊讶的巨大的资源。
+特约
+请参阅有助于了解详细信息。
